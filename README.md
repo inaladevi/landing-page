@@ -1,21 +1,22 @@
-APEX CREATIVE AGENCY - Landing Page
+ # **APEX CREATIVE AGENCY — Landing Page**
 
 A modern landing page for a creative talent agency, built as part of The Odin Project curriculum.
 
-Technologies Used
-- HTML5
-- CSS3
-- Flexbox
+ ## **Technologies Used**
 
-Live Demo 
+- **HTML5**
+- **CSS3**
+- **Flexbox**
 
+## **Live Demo**
 
+[View on GitHub Pages](https://inaladevi.github.io/landing-page/)
 
-Image Credits:
+## **Image Credits**
 
-All images sourced from [Unsplash/Pexels]
+All images sourced from **[Unsplash](https://unsplash.com)** and **[Pexels](https://pexels.com)**  
 
-Links :
+## **Links** :
 
 https://unsplash.com/photos/woman-smiling-and-looking-at-the-camera-r0HtkMKw10Q
 

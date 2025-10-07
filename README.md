@@ -7,5 +7,24 @@ Technologies Used
 - CSS3
 - Flexbox
 
-Image Credits
+Live Demo 
+
+
+
+Image Credits:
+
 All images sourced from [Unsplash/Pexels]
+
+Links :
+
+https://unsplash.com/photos/woman-smiling-and-looking-at-the-camera-r0HtkMKw10Q
+
+https://www.pexels.com/photo/person-playing-soccer-159684/
+
+https://www.pexels.com/photo/photo-of-galaxy-4367584/
+
+https://www.pexels.com/photo/women-walking-near-a-person-in-a-white-blazer-7305185/
+
+https://unsplash.com/id/foto/pria-berbaju-blazer-hitam-memegang-mikrofon-REkhQnY8fRo
+
+
